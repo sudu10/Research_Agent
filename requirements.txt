@@ -1,8 +1,0 @@
-langchain
-wikipedia
-langchain-community
-langchain_openai
-langchain-anthropic
-python-dotenv
-pydantic
-duckduckgp-searchs
